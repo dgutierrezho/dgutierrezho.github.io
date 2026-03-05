@@ -10,5 +10,6 @@ Hello! I am a fourth-year B.S. Electrical Engineering student with a depth in Im
 My journey as an undergraduate in Electrical Engineering has led me to an array of experiences, making me a multi-faceted young engineer. I have developed a passion for bridging the gap between theory and physical applications. I'm particularly interested in digital signal processing and embedded systems and their contributions to audio/image processing. I'm currently pursuing entry-level, full-time employment opportunities starting upon my graduation in June 2026.
 
 ## Projects
-1. <a href="https://github.com/dgutierrezho/Multipath-Channel-Equalization">Multipath Channel Characterization and Digital Equalization</a>
-2. <a href="https://github.com/dgutierrezho/Automated-Security-Door-/tree/main">Automated Security Door System</a>
+1. <a href="https://github.com/dgutierrezho/Automated-Security-Door-/tree/main">Automated Security Door System</a>
+2. <a href="https://github.com/dgutierrezho/Tortuga_Bot/tree/main">Marine Monitoring and Conservation.</a>
+3. <a href="https://github.com/dgutierrezho/Multipath-Channel-Equalization">Multipath Channel Characterization and Digital Equalization</a>
