@@ -11,5 +11,5 @@ My journey as an undergraduate in Electrical Engineering has led me to an array 
 
 ## Projects
 1. <a href="https://github.com/dgutierrezho/Automated-Security-Door-/tree/main">Automated Security Door System</a>
-2. <a href="https://github.com/dgutierrezho/Tortuga_Bot/tree/main">Marine Monitoring and Conservation.</a>
+2. <a href="https://github.com/dgutierrezho/Tortuga_Bot/tree/main">Marine Monitoring and Conservation</a>
 3. <a href="https://github.com/dgutierrezho/Multipath-Channel-Equalization">Multipath Channel Characterization and Digital Equalization</a>
