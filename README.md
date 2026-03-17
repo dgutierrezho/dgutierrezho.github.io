@@ -11,7 +11,7 @@ My journey as an undergraduate has led me to an array of experiences, making me 
 
 I'm particularly interested in digital signal processing and embedded systems and their contributions to audio/image processing, computer vision/image enhancement, and firmware development/hardware-software integration. 
 
-I'm currently pursuing entry-level, full-time employment or internship opportunities where I can apply my foundational skills to contribute to human-centered intiatives and create a positive impact on people's lives while refnining my skills as an engineer following my graduation this June 2026.
+I'm currently pursuing entry-level, full-time employment or internship opportunities where I can apply my foundational skills to contribute to human-centered intiatives and create a positive impact on people's lives while refining my skills as an engineer following my graduation this June 2026.
 
 ## Projects
 1. <a href="https://github.com/dgutierrezho/Automated-Security-Door-/tree/main">Automated Security Door System</a>
