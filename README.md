@@ -7,9 +7,9 @@ Hello! I am a fourth-year B.S. Electrical Engineering student with a depth in Im
 
 ## Objective
 
-My journey as an undergraduate has led me to an array of experiences, making me a multi-faceted young engineer. Whether I'm working on hands-on circuit labs, or creating end-end projects by participating in hackathons, I have developed a passion for bridging the gap between theory and physical applications. 
+My journey as an undergraduate has led me to an array of experiences, making me a multi-faceted young engineer. Whether I'm working on hands-on circuit labs, creating end-end projects by participating in hackathons, or refining my professional experience through my past internship with NV5, I have developed a passion for bridging the gap between theory and physical applications. 
 
-I'm particularly interested in digital signal processing and embedded systems and their contributions to audio/image processing, computer vision/image enhancement, and firmware development/hardware-software integration. 
+I'm particularly interested in digital signal processing, embedded systems, and power grid systems. 
 
 I'm currently pursuing entry-level, full-time employment or internship opportunities where I can apply my foundational skills to contribute to human-centered intiatives and create a positive impact on people's lives while refining my skills as an engineer following my graduation this June 2026.
 
